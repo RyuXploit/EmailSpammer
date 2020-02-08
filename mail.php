@@ -35,9 +35,11 @@ $banner = "
       MMmmm           mmmMM 
                                           
  [+] SURVERYON MAIL SPAMMER [+]
- Coded by  : Revan AR
- Team      : IndoSec
- Github    : https://github.com/revan-ar/
+ Coded by  : RyuXploit
+ Team      : BACOTAN ANAK IT
+ Github    : https://github.com/RyuXploit
+ Youtube   : https://youtube.com/c/ScriptKiddies
+ Blog      : http://ryuxploit.blogspot.com
 ============================================\n";
 sleep(2);
 echo $banner;
